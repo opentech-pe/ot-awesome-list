@@ -13,17 +13,17 @@
 > NOTA: Esta lista no tiene fines publicitarios.
 
 
-**CONSEJO:** No agregue links de buscadores, o de bloques de información, aca un ejemplo de **lo que no deberias agregar**
+**CONSEJO:** No agregue links de buscadores, o de bloques de información, aquí un ejemplo de **lo que no deberias agregar**
 
 [🇺🇸🍎 Cursos libres sobre JS, Frameworks](https://egghead.io)
 
-Aqui vemos que es un curso en inglés, según nuestros [emoji key](#emoji-keys), pero en realidad nos redirecciona a todo el catalogo de [egghead](https://egghead.io/), siendo la descripción poco precisa, y que incluso cuenta con cursos de paga por lo que deberia tener el [emoji key](#emoji-keys) de "contenido de pago". Una forma mas acertada sería:
+Aqui vemos que es un curso en inglés, según nuestros [emoji key](#emoji-keys), pero en realidad nos redirecciona a todo el catálogo de [egghead](https://egghead.io/), siendo la descripción poco precisa, y que incluso cuenta con cursos de paga por lo que debería tener el [emoji key](#emoji-keys) de "contenido de pago". Una forma mas acertada sería:
 
 [🇺🇸🍎 egghead: Use grid-template to make your CSS Grid declarations more readable](https://egghead.io/lessons/css-use-grid-template-to-make-your-css-grid-declarations-more-readable)
 
 Esto dice mucho más:
 
-- 🇺🇸🍎: Curso en ingles
-- **egghead:** De la pagina egghead.
-- **Use grit-template . . . :** Titulo o descripción del curso.
+- 🇺🇸🍎: Curso en inglés
+- **egghead:** De la página egghead.
+- **Use grit-template . . . :** Título o descripción del curso.
 > NOTA: Al no tener agregado el emoji key de "contenido de pago" se entiende que es _free._
