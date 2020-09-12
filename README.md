@@ -319,7 +319,7 @@
 
 🇺🇸🍎👾 [Flexbox Zombies: An interactive game to learn Flexbox](https://mastery.games/flexboxzombies/)
 
-🇺🇸🍎👾 [FLEXBOX FROGGY. Educational game to learn css](https://flexboxfroggy.com/#es)
+🇺🇸🍎👾 [Flexbox Froggy: Educational game to learn css](https://flexboxfroggy.com/#es)
 
  ## Compartir
 
@@ -327,4 +327,3 @@
 + [Compartir en Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/opentech-pe/ot-awesome-list&p[summary]=)
 + [Compartir en LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/opentech-pe/ot-awesome-list&summary=&source=)
 + [Compartir en Telegram](https://t.me/share/url?url=https://github.com/opentech-pe/ot-awesome-list)
-
