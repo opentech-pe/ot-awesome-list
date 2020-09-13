@@ -265,8 +265,6 @@
 
 🇪🇸✍️ [Cambiamos a Figma?](https://medium.com/mendesaltaren/cambiamos-a-figma-3d3032660910)
 
-🇺🇸🍎 [Aprendiendo FlexBox, jugando con zombies.](https://mastery.games/flexboxzombies/)
-
 🇺🇸🍎 [Challenges: Turn your tech skills into superpowers](https://www.microsoft.com/inculture/wonderwoman-1984/)
 
 🇺🇸✍️ [How to Contribute to Open Source | Open Source Guides.](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source)
