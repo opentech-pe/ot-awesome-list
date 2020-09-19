@@ -265,8 +265,6 @@
 
 🇪🇸✍️ [Cambiamos a Figma?](https://medium.com/mendesaltaren/cambiamos-a-figma-3d3032660910)
 
-🇺🇸🍎 [Aprendiendo FlexBox, jugando con zombies.](https://mastery.games/flexboxzombies/)
-
 🇺🇸🍎 [Challenges: Turn your tech skills into superpowers](https://www.microsoft.com/inculture/wonderwoman-1984/)
 
 🇺🇸✍️ [How to Contribute to Open Source | Open Source Guides.](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source)
@@ -319,6 +317,8 @@
 
 🇺🇸🍎👾 [Flexbox Zombies: An interactive game to learn Flexbox](https://mastery.games/flexboxzombies/)
 
+🇺🇸🍎👾 [Flexbox Froggy: Educational game to learn css](https://flexboxfroggy.com/#es)
+
 🇺🇸🍎 [CSS-Tricks: A complete guide to learn Grid CSS.](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
  **[⬆ Volver Arriba](#tabla-de-contenido)**
@@ -329,4 +329,3 @@
 + [Compartir en Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/opentech-pe/ot-awesome-list&p[summary]=)
 + [Compartir en LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/opentech-pe/ot-awesome-list&summary=&source=)
 + [Compartir en Telegram](https://t.me/share/url?url=https://github.com/opentech-pe/ot-awesome-list)
-
